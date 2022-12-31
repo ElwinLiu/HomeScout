@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f02caae8-a187-423c-bc55-7491820706fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2AjXOWXteSo0GMQFsWmQIyWENZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yeb-server/src/main/resources/mapper" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MYCODE\Design-backend\yeb-server\src\main\resources\mapper" />
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\resources\mapper" />
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\java\com\example\server\service\impl" />
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\java\com\example\server\service" />
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\java\com\example\server\pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\resources\mapper" />
+      <recent name="D:\MYCODE\yeb\yeb-server\src\main\resources\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.server.controller" />
+      <recent name="com.example.server.mapper" />
+      <recent name="com.example.server.service.impl" />
+      <recent name="com.example.server.service" />
+      <recent name="com.example.server.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YebApplication (1)">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.generator.CodeGenerator" />
+      <module name="yeb-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.server.YebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yeb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yeb.YebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YebApplication (1)" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f02caae8-a187-423c-bc55-7491820706fc" name="Default Changelist" comment="" />
+      <created>1655523937997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655523937997</updated>
+      <workItem from="1655523939812" duration="3463000" />
+      <workItem from="1655537297721" duration="3378000" />
+      <workItem from="1655551575141" duration="7325000" />
+      <workItem from="1655602190428" duration="14118000" />
+      <workItem from="1655623791075" duration="147000" />
+      <workItem from="1655623945440" duration="1147000" />
+      <workItem from="1655625113765" duration="1804000" />
+      <workItem from="1655626937532" duration="9179000" />
+      <workItem from="1655640472864" duration="308000" />
+      <workItem from="1655640794124" duration="705000" />
+      <workItem from="1655641513281" duration="44000" />
+      <workItem from="1655641565876" duration="8009000" />
+      <workItem from="1655692222012" duration="7792000" />
+      <workItem from="1655701811414" duration="2263000" />
+      <workItem from="1655705071492" duration="1472000" />
+      <workItem from="1655706872778" duration="71000" />
+      <workItem from="1655708738357" duration="939000" />
+      <workItem from="1655709732014" duration="16460000" />
+      <workItem from="1655771846176" duration="7413000" />
+      <workItem from="1655807413266" duration="1250000" />
+      <workItem from="1655861584288" duration="1222000" />
+      <workItem from="1655884133508" duration="1358000" />
+      <workItem from="1655893182742" duration="5071000" />
+      <workItem from="1655943979511" duration="8660000" />
+      <workItem from="1655954082217" duration="593000" />
+      <workItem from="1655964740831" duration="8648000" />
+      <workItem from="1655985178627" duration="57000" />
+      <workItem from="1655985244929" duration="1310000" />
+      <workItem from="1656069238332" duration="4763000" />
+      <workItem from="1656122764956" duration="821000" />
+      <workItem from="1656123600492" duration="9141000" />
+      <workItem from="1656207110912" duration="14935000" />
+      <workItem from="1656250316508" duration="39000" />
+      <workItem from="1656256509474" duration="609000" />
+      <workItem from="1656291949130" duration="12171000" />
+      <workItem from="1656319993832" duration="167000" />
+      <workItem from="1656320830015" duration="38000" />
+      <workItem from="1656332679163" duration="39000" />
+      <workItem from="1656346782204" duration="710000" />
+      <workItem from="1656377251397" duration="12478000" />
+      <workItem from="1656466459550" duration="119000" />
+      <workItem from="1656470514871" duration="623000" />
+      <workItem from="1656493097299" duration="685000" />
+      <workItem from="1656508866432" duration="631000" />
+      <workItem from="1656554341211" duration="5768000" />
+      <workItem from="1656569078874" duration="1239000" />
+      <workItem from="1656731362044" duration="621000" />
+      <workItem from="1656816317045" duration="9355000" />
+      <workItem from="1656850963564" duration="694000" />
+      <workItem from="1656918720549" duration="3905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

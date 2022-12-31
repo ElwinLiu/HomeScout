@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.server.mapper.HouseMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.server.pojo.House">
+        <id column="id" property="id" />
+        <result column="type" property="type" />
+        <result column="price" property="price" />
+        <result column="arch_area" property="archArea" />
+        <result column="in_area" property="inArea" />
+        <result column="dir" property="dir" />
+        <result column="community" property="community" />
+        <result column="floor" property="floor" />
+        <result column="sum_floor" property="sumFloor" />
+        <result column="year" property="year" />
+        <result column="arch_type" property="archType" />
+        <result column="district" property="district" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, type, price, arch_area, in_area, dir, community, floor, sum_floor, year, arch_type, district
+    </sql>
+
+</mapper>
